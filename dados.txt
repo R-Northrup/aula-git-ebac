@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Renan
+-Profissão: Moderador de Conteúdo
+-Cidade: São Paulo
+-O que faz nas horas vaga: Jogo
+-Feedback sobre o curso Qualidade de Software: Ótimo mas sinto que demorou um pouco para começar a ter atividades mais práticas e menos teóricas.
+-Feedback sobre a plataforma de estudo da EBAC: Sem nenhuma reclamação quanto à plataforma! Tudo funciona certinho!
 
 Obrigado!!!
 
