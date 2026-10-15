@@ -1,4 +1,9 @@
-# Dados aluno
+# Informações
+Esse README está sendo utilizado como teste para ver se eu aprendi realmente a usar o git. 
+
+É pra essa mensagem aparecer abaixo do título principal.
+
+## Dados aluno
 Faça a edição dos dados do arquivo dados.txt. 
 Fique a vontade se não quiser responder todos os itens. 
 
@@ -14,4 +19,4 @@ Fique a vontade se não quiser responder todos os itens.
 
 -No commit coloque a mensagem: “Modificando o arquivo de dados”.
 
--Compertilhe seu github conosco em nossa plataforma;
+-Compartilhe seu github conosco em nossa plataforma;
